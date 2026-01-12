@@ -1,0 +1,142 @@
+============================================================
+TCGA GLIOMA ANALYSIS - 2026-01-12 19:33:50
+============================================================
+
+ RESULTS: CRT-logit
+   Number of clusterings: 316 (FDR < 0.1)
+   Representative Genes      | P-value    | Size  | Is GT
+   ----------------------------------------------------------------------
+   FREM1                     | 2.54e-22   | 19    | Yes  
+   KLHL13                    | 2.57e-20   | 67    | Yes  
+   PROKR2                    | 7.79e-17   | 88    | Yes  
+   KRT34                     | 1.17e-16   | 122   | Yes  
+   KCNU1                     | 2.18e-14   | 34    | Yes  
+   PLEKHG4B                  | 3.15e-14   | 24    | Yes  
+   AIM1                      | 2.34e-12   | 9     | Yes  
+   STXBP5L                   | 2.45e-12   | 55    | Yes  
+   SAMD9                     | 6.47e-11   | 28    | Yes  
+   KMT2D                     | 1.74e-10   | 60    | Yes  
+   CHL1                      | 2.37e-10   | 18    | Yes  
+   DNAH1                     | 2.82e-10   | 63    | Yes  
+   SLC27A2                   | 2.93e-10   | 32    | Yes  
+   CDH15                     | 2.66e-09   | 68    | Yes  
+   SHROOM3                   | 3.58e-09   | 28    | Yes  
+   CYP4B1                    | 5.55e-09   | 62    | Yes  
+   PCDH9                     | 8.52e-09   | 35    | Yes  
+   ZNF292                    | 1.01e-08   | 46    | Yes  
+   TSPEAR                    | 8.99e-08   | 33    | Yes  
+   SLCO5A1                   | 2.26e-07   | 61    | Yes  
+   MYH11                     | 3.08e-07   | 53    | Yes  
+   TP53                      | 3.49e-07   | 16    | Yes  
+   TPTE                      | 5.85e-07   | 34    | Yes  
+   FLNB                      | 9.78e-07   | 39    | Yes  
+   ZNF280C                   | 1.42e-06   | 117   | Yes  
+   DMBT1                     | 1.69e-06   | 76    | Yes  
+   WWC3                      | 3.04e-06   | 22    | Yes  
+   TEX15                     | 3.33e-06   | 50    | Yes  
+   ACAN                      | 4.12e-06   | 108   | Yes  
+   PLCH1                     | 5.15e-06   | 72    | Yes  
+   DNAH3                     | 6.46e-06   | 53    | Yes  
+   SSTR4                     | 7.68e-06   | 47    | Yes  
+   LRRC7                     | 8.85e-06   | 34    | Yes  
+   WDR90                     | 1.04e-05   | 93    | Yes  
+   BTBD11                    | 1.58e-05   | 88    | Yes  
+   TP63                      | 2.01e-05   | 42    | Yes  
+   MAN2B2                    | 2.43e-05   | 131   | Yes  
+   CR2                       | 3.92e-05   | 55    | Yes  
+   DSC2                      | 4.52e-05   | 51    | Yes  
+   CSF2RA                    | 5.09e-05   | 29    | Yes  
+   KIAA1462                  | 7.81e-05   | 39    | Yes  
+   SPTBN5                    | 8.05e-05   | 52    | Yes  
+   COL19A1                   | 8.78e-05   | 36    | Yes  
+   KLK15                     | 1.19e-04   | 27    | Yes  
+   EGF                       | 1.25e-04   | 50    | Yes  
+   KIAA0020                  | 1.35e-04   | 38    | Yes  
+   COL11A2                   | 1.75e-04   | 52    | Yes  
+   NOTCH1                    | 2.15e-04   | 20    | Yes  
+   CNTN3                     | 2.73e-04   | 78    | Yes  
+   CEP104                    | 3.11e-04   | 14    | Yes  
+   SH3RF2                    | 3.45e-04   | 82    | Yes  
+   CACNA1B                   | 4.31e-04   | 65    | Yes  
+   RLTPR                     | 4.34e-04   | 88    | Yes  
+   PCK1                      | 4.89e-04   | 67    | Yes  
+   TBC1D9                    | 5.42e-04   | 66    | Yes  
+   TAF1L                     | 5.44e-04   | 19    | Yes  
+   UNC79                     | 6.47e-04   | 54    | Yes  
+   CDH23                     | 6.68e-04   | 95    | Yes  
+   ZPBP                      | 8.44e-04   | 11    | Yes  
+   VPS13C                    | 1.34e-03   | 47    | Yes  
+   TNFRSF11A                 | 1.43e-03   | 56    | Yes  
+   IQGAP3                    | 1.47e-03   | 59    | Yes  
+   HYDIN                     | 1.52e-03   | 56    | Yes  
+   NLRP3                     | 1.54e-03   | 66    | Yes  
+   ADARB2                    | 1.68e-03   | 15    | Yes  
+   MACC1                     | 1.73e-03   | 62    | Yes  
+   ATP6V0A4                  | 1.77e-03   | 55    | Yes  
+   OR3A2                     | 1.85e-03   | 64    | Yes  
+   BZRAP1                    | 1.85e-03   | 67    | Yes  
+   MACF1                     | 1.93e-03   | 103   | Yes  
+   TMPRSS6                   | 2.12e-03   | 92    | Yes  
+   TRIM71                    | 2.17e-03   | 23    | Yes  
+   RAG1                      | 2.20e-03   | 63    | Yes  
+   LILRA6                    | 2.26e-03   | 47    | Yes  
+   TUBA3C                    | 2.28e-03   | 37    | Yes  
+   CHD5                      | 2.30e-03   | 23    | Yes  
+   LRP1B                     | 2.46e-03   | 229   | Yes  
+   PRKDC                     | 2.70e-03   | 48    | Yes  
+   CATSPERD                  | 2.78e-03   | 53    | Yes  
+   MTOR                      | 2.94e-03   | 28    | Yes  
+   KIF4B                     | 4.85e-03   | 60    | Yes  
+   ADAM29                    | 5.06e-03   | 39    | Yes  
+   NRK                       | 5.88e-03   | 71    | Yes  
+   CSMD3                     | 5.88e-03   | 64    | Yes  
+   KHDRBS2                   | 6.03e-03   | 8     | Yes  
+   PCDH15                    | 6.58e-03   | 82    | Yes  
+   FOXG1                     | 6.88e-03   | 22    | Yes  
+   FTMT                      | 7.55e-03   | 41    | Yes  
+   CARD6                     | 7.74e-03   | 41    | Yes  
+   GRIP1                     | 8.18e-03   | 9     | Yes  
+   TG                        | 8.33e-03   | 36    | Yes  
+   TIAM2                     | 8.74e-03   | 32    | Yes  
+   HUWE1                     | 9.25e-03   | 22    | Yes  
+   SPEN                      | 9.44e-03   | 52    | Yes  
+   OR4N2                     | 9.50e-03   | 75    | Yes  
+   KIF16B                    | 1.01e-02   | 41    | Yes  
+   EXPH5                     | 1.03e-02   | 79    | Yes  
+   MTUS2                     | 1.04e-02   | 30    | Yes  
+   LRP4                      | 1.05e-02   | 43    | Yes  
+   TCHH                      | 1.17e-02   | 104   | Yes  
+   HELZ2                     | 1.26e-02   | 45    | Yes  
+   LAMA1                     | 1.28e-02   | 56    | Yes  
+   CSMD2                     | 1.47e-02   | 70    | Yes  
+   PAPPA2                    | 1.47e-02   | 94    | Yes  
+   MYH15                     | 1.53e-02   | 44    | Yes  
+   MED12                     | 1.53e-02   | 77    | Yes  
+   DVL2                      | 1.56e-02   | 67    | Yes  
+   USP11                     | 1.76e-02   | 128   | Yes  
+   AFF2                      | 1.90e-02   | 83    | Yes  
+   NWD1                      | 1.95e-02   | 53    | Yes  
+   ZNF638                    | 1.98e-02   | 114   | Yes  
+   LAMC3                     | 2.11e-02   | 104   | Yes  
+   HTR5A                     | 2.12e-02   | 24    | Yes  
+   MAST4                     | 2.16e-02   | 38    | Yes  
+   KCNJ12                    | 2.35e-02   | 41    | Yes  
+   TRPA1                     | 2.37e-02   | 68    | Yes  
+   ALPP                      | 2.56e-02   | 25    | Yes  
+   FSCB                      | 2.82e-02   | 15    | Yes  
+   ZDBF2                     | 2.89e-02   | 154   | Yes  
+   VCAN                      | 2.91e-02   | 102   | Yes  
+
+ RESULTS: Debiased Lasso
+   Number of clusterings: 0 (FDR < 0.1)
+
+ RESULTS: Knockoff
+   Number of clusterings: 0 (FDR < 0.1)
+
+============================================================
+RESULTS SUMMARY:
+
+ - CRT-logit           : 316 clusters
+ - Debiased Lasso      : 0 clusters
+ - Knockoff            : 0 clusters
+============================================================
